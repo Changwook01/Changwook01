@@ -4,4 +4,5 @@
 <h3>FrontEnd</h3>
 
 <h3>BackEnd</h3>
-<img src="https://img.shields.io/badge/SpringBoot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+<img src="https://img.shields.io/badge/SpringBoot-20232a.svg?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img alt="Static Badge" src="https://img.shields.io/badge/spring?logo=springboot&logoColor=%236DB33F&color=%236DB33F">
