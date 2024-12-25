@@ -2,10 +2,14 @@
 
 
 <h3>FrontEnd</h3>
+<div>
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+</div>
 
 <h3>BackEnd</h3>
+<div>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
+</div>
 
 <h3>Language</h3>
 <div>
@@ -14,6 +18,8 @@
 </div>
 
 <h3>Learning</h3>
+<div>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</div>
