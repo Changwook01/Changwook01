@@ -10,8 +10,8 @@
 <div>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
 </div>
-
-<h3>![image](https://github.com/user-attachments/assets/7116f1b1-65a3-43a5-b7fd-090420ba8a96)DataBase![image](https://github.com/user-attachments/assets/7a37a643-5b4e-4401-9a6f-56e0b7735e32)</h3>
+![image](https://github.com/user-attachments/assets/7a37a643-5b4e-4401-9a6f-56e0b7735e32)
+<h3>DataBase</h3>
 <div>
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
