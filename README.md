@@ -1,4 +1,4 @@
-
+<img width="800px" src="https://github.com/Changwook01/Changwook01/blob/main/Welcome%20to%20changwook%E2%80%99s%20github.gif"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changwook01&show_icons=true&theme=ambient_gradient)<p>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changwook01&layout=compact&theme=ambient_gradient)
