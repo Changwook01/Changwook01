@@ -29,5 +29,5 @@
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactNative-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nodedotjs-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </div>
