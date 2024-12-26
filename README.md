@@ -5,8 +5,9 @@
 <h3 align="center">🔖contact🔖</h3>
 <div align="center">
 <a href="https://blog.naver.com/tjckddnr3026"><img src="https://img.shields.io/badge/blog-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>
-
-  
+<img src="https://img.shields.io/badge/tjckddnr01@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/tjckddnr3026@naver.com-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/>
+<a href="https://discord.com/channels/@me">asdf</a>
 </div>
 
 <h3 align="center">💻FrontEnd💻</h3>
@@ -50,20 +51,26 @@
 <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
+
 <br>
+
 <div align="center">
 <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </div>
+
 <br>
+
 <div align="center">
 <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/visual studio-0078D4.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/android studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </div>
+
 <hr>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Changwook01&show_icons=true&theme=ambient_gradient"/>&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Changwook01&layout=compact&theme=ambient_gradient"/>
