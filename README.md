@@ -2,6 +2,13 @@
 <img width="1600px" src="https://github.com/Changwook01/Changwook01/blob/main/Welcome%20to%20changwook%E2%80%99s%20github.gif"/>
 
 <!-- 내용 부분 -->
+<h3 align="center">🔖contact🔖</h3>
+<div align="center">
+<a href="https://blog.naver.com/tjckddnr3026"></a><img src="https://img.shields.io/badge/blog-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/>
+
+  
+</div>
+
 <h3 align="center">💻FrontEnd💻</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
