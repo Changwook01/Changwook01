@@ -20,10 +20,10 @@
 
 
 <h3>✨Language✨</h3>
-<p style="text-align: center;">
+<div style ="text-align:center";>
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
+</div>
 
 <h3>📚Studying📚</h3>
 <div>
