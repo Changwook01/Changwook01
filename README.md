@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Changwook&show_icons=true&theme=ambient_gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Changwook&layout=ambient_gradient)](https://github.com/Changwook/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangWook&show_icons=true&theme=ambient_gradient)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWook&layout=compact&theme=ambient_gradient)
 
 <h3>💻FrontEnd💻</h3>
 <div>
