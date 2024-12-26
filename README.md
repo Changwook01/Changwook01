@@ -5,10 +5,9 @@
 <h3>🔖contact🔖</h3>
 <div>
 <a href="https://blog.naver.com/tjckddnr3026"><img src="https://img.shields.io/badge/blog-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/tjckddnr01@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/tjckddnr01@gmail.com-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/><p>
 <img src="https://img.shields.io/badge/tjckddnr3026@naver.com-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/scw0416-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
-
 </div>
 
 <h3>💻FrontEnd💻</h3>
