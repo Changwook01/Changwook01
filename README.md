@@ -50,24 +50,19 @@
 <img src="https://img.shields.io/badge/notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </div>
-
 <br>
-
 <div align="center">
 <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/intellijidea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/dbeaver-382923.svg?style=for-the-badge&logo=dbeaver&logoColor=white"/>
 </div>
-
 <br>
-
 <div align="center">
 <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipseide&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/visual studio-0078D4.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/android studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </div>
-
 <hr>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Changwook01&show_icons=true&theme=ambient_gradient"/>&nbsp;
