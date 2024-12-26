@@ -1,5 +1,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChangWook&show_icons=true&theme=ambient_gradient)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChangWook)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>💻FrontEnd💻</h3>
 <div>
